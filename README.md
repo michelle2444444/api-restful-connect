@@ -103,7 +103,7 @@ Modo desarrollo (con Nodemon):
 ### Despliegue en Render 🚀
 
 La API está desplegada en Render.
-URL de producción: https://api-restful-iul9.onrender.com
+URL de producción:
 **Pasos para despliegue**:
 
 - Conectar repositorio de GitHub a Render.
@@ -112,7 +112,3 @@ URL de producción: https://api-restful-iul9.onrender.com
 - ¡Desplegar!
 
 
-
-## Contribuidores ✨
-
-Marlon Nicolalde, Joseph Caza, Michelle Suárez e Isaac Quinapallo
