@@ -15,7 +15,7 @@ API para comunidades universitarias cercanas a la EPN (Escuela Politécnica Naci
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/SolarSpectre/api-restful.git
+   git clone https://github.com/SolarSpectre/api-restful-connect.git
    cd u-connect-api.
 
 Estructura del proyecto
